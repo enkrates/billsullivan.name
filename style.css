@@ -20,6 +20,7 @@ article {
   margin: 3rem 10vw 3rem 4vw;
 }
 section {
+  margin: 0 auto;
   text-align: justify;
   max-width: 500px;
   display: -webkit-box;
